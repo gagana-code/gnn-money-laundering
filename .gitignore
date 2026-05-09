@@ -1,0 +1,10 @@
+*.xlsx
+*.xls
+*.csv
+__pycache__/
+*.pyc
+.env
+venv/
+node_modules/
+build/
+*.db
